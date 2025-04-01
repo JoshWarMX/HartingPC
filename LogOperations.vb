@@ -1,0 +1,3 @@
+﻿Module LogOperations
+
+End Module

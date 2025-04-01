@@ -1,0 +1,168 @@
+C:\Users\HartingPC1\source\repos\HartingPC\bin\Debug\HartingPC.exe.config
+C:\Users\HartingPC1\source\repos\HartingPC\bin\Debug\HartingPC.exe
+C:\Users\HartingPC1\source\repos\HartingPC\bin\Debug\HartingPC.pdb
+C:\Users\HartingPC1\source\repos\HartingPC\bin\Debug\HartingPC.xml
+C:\Users\HartingPC1\source\repos\HartingPC\obj\Debug\HartingPC.vbprojAssemblyReference.cache
+C:\Users\HartingPC1\source\repos\HartingPC\obj\Debug\HartingPC.Form1.resources
+C:\Users\HartingPC1\source\repos\HartingPC\obj\Debug\HartingPC.Form2.resources
+C:\Users\HartingPC1\source\repos\HartingPC\obj\Debug\HartingPC.Resources.resources
+C:\Users\HartingPC1\source\repos\HartingPC\obj\Debug\HartingPC.vbproj.GenerateResource.cache
+C:\Users\HartingPC1\source\repos\HartingPC\obj\Debug\HartingPC.exe
+C:\Users\HartingPC1\source\repos\HartingPC\obj\Debug\HartingPC.xml
+C:\Users\HartingPC1\source\repos\HartingPC\obj\Debug\HartingPC.pdb
+C:\Users\HartingPC1\source\repos\HartingPC\bin\Debug\HartingPC.exe.manifest
+C:\Users\HartingPC1\source\repos\HartingPC\bin\Debug\HartingPC.application
+C:\Users\HartingPC1\source\repos\HartingPC\obj\Debug\HartingPC.exe.manifest
+C:\Users\HartingPC1\source\repos\HartingPC\obj\Debug\HartingPC.application
+C:\Users\HartingPC1\source\repos\HartingPC\obj\Debug\HartingPC.Form3.resources
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.vbproj.AssemblyReference.cache
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.Form1.resources
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.Form2.resources
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.Form3.resources
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.Resources.resources
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.vbproj.GenerateResource.cache
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.vbproj.CoreCompileInputs.cache
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.exe
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.xml
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.pdb
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\bin\Debug\HartingPC.exe.config
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\bin\Debug\HartingPC.exe.manifest
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\bin\Debug\HartingPC.application
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\bin\Debug\HartingPC.exe
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\bin\Debug\HartingPC.pdb
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\bin\Debug\HartingPC.xml
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.exe.manifest
+C:\Users\HartingPC3\Desktop\respaldo harting 181221\HartingPC\obj\Debug\HartingPC.application
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.vbproj.AssemblyReference.cache
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.Main_Form.resources
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.Form3.resources
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.Resources.resources
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.vbproj.GenerateResource.cache
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.vbproj.CoreCompileInputs.cache
+C:\Users\Josue Guerra\Desktop\HartingPC\bin\Debug\HartingPC.exe.config
+C:\Users\Josue Guerra\Desktop\HartingPC\bin\Debug\HartingPC.exe.manifest
+C:\Users\Josue Guerra\Desktop\HartingPC\bin\Debug\HartingPC.application
+C:\Users\Josue Guerra\Desktop\HartingPC\bin\Debug\HartingPC.exe
+C:\Users\Josue Guerra\Desktop\HartingPC\bin\Debug\HartingPC.pdb
+C:\Users\Josue Guerra\Desktop\HartingPC\bin\Debug\HartingPC.xml
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.exe.manifest
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.application
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.exe
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.xml
+C:\Users\Josue Guerra\Desktop\HartingPC\obj\Debug\HartingPC.pdb
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.vbproj.AssemblyReference.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.Main_Form.resources
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.Form3.resources
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.Resources.resources
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.vbproj.GenerateResource.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.vbproj.CoreCompileInputs.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.exe
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.pdb
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\HartingPC.exe.config
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\HartingPC.exe.manifest
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\HartingPC.application
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\HartingPC.exe
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\HartingPC.pdb
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\HartingPC.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\S7.Net.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\System.Buffers.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\System.Memory.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\S7.Net.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\System.Buffers.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\System.Memory.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.exe.manifest
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.application
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\08. ColorInspect L3\NewApp\HartingPC\obj\Debug\HartingPC.vbproj.CopyComplete
+C:\Automat\HartingPC\bin\Debug\HartingPC.exe.config
+C:\Automat\HartingPC\bin\Debug\HartingPC.exe.manifest
+C:\Automat\HartingPC\bin\Debug\HartingPC.application
+C:\Automat\HartingPC\bin\Debug\HartingPC.exe
+C:\Automat\HartingPC\bin\Debug\HartingPC.pdb
+C:\Automat\HartingPC\bin\Debug\HartingPC.xml
+C:\Automat\HartingPC\bin\Debug\S7.Net.dll
+C:\Automat\HartingPC\bin\Debug\System.Buffers.dll
+C:\Automat\HartingPC\bin\Debug\System.Memory.dll
+C:\Automat\HartingPC\bin\Debug\System.Numerics.Vectors.dll
+C:\Automat\HartingPC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Automat\HartingPC\bin\Debug\S7.Net.xml
+C:\Automat\HartingPC\bin\Debug\System.Buffers.xml
+C:\Automat\HartingPC\bin\Debug\System.Memory.xml
+C:\Automat\HartingPC\bin\Debug\System.Numerics.Vectors.xml
+C:\Automat\HartingPC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Automat\HartingPC\obj\Debug\HartingPC.vbproj.AssemblyReference.cache
+C:\Automat\HartingPC\obj\Debug\HartingPC.Main_Form.resources
+C:\Automat\HartingPC\obj\Debug\HartingPC.Form3.resources
+C:\Automat\HartingPC\obj\Debug\HartingPC.Resources.resources
+C:\Automat\HartingPC\obj\Debug\HartingPC.vbproj.GenerateResource.cache
+C:\Automat\HartingPC\obj\Debug\HartingPC.vbproj.CoreCompileInputs.cache
+C:\Automat\HartingPC\obj\Debug\HartingPC.exe.manifest
+C:\Automat\HartingPC\obj\Debug\HartingPC.application
+C:\Automat\HartingPC\obj\Debug\HartingPC.vbproj.Up2Date
+C:\Automat\HartingPC\obj\Debug\HartingPC.exe
+C:\Automat\HartingPC\obj\Debug\HartingPC.xml
+C:\Automat\HartingPC\obj\Debug\HartingPC.pdb
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\HartingPC.exe.config
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\HartingPC.exe.manifest
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\HartingPC.application
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\HartingPC.exe
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\HartingPC.pdb
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\HartingPC.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\S7.Net.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\System.Buffers.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\System.Memory.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\S7.Net.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\System.Buffers.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\System.Memory.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.vbproj.AssemblyReference.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.Main_Form.resources
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.Form3.resources
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.Resources.resources
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.vbproj.GenerateResource.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.vbproj.CoreCompileInputs.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.exe.manifest
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.application
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.vbproj.CopyComplete
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.exe
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\09. ColorInspect L2\Nueva carpeta\HartingPC\obj\Debug\HartingPC.pdb
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.vbproj.AssemblyReference.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.Main_Form.resources
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.Form3.resources
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.Resources.resources
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.vbproj.GenerateResource.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.vbproj.CoreCompileInputs.cache
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.exe
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.pdb
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\HartingPC.exe.config
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\HartingPC.exe.manifest
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\HartingPC.application
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\HartingPC.exe
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\HartingPC.pdb
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\HartingPC.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\S7.Net.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\System.Buffers.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\System.Memory.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\S7.Net.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\System.Buffers.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\System.Memory.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.exe.manifest
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.application
+C:\Users\Josue Guerra\Documents\ShareFolder\Proyectos\03. Harting\10. ColorInspect L1\HartingPC\obj\Debug\HartingPC.vbproj.CopyComplete

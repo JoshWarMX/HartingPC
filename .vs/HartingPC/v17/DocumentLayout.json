@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Automat\\HartingPC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488519AF-8136-43C5-A1F1-F2FA0F73F0D7}|HartingPC.vbproj|c:\\automat\\hartingpc\\main_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{488519AF-8136-43C5-A1F1-F2FA0F73F0D7}|HartingPC.vbproj|solutionrelative:main_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488519AF-8136-43C5-A1F1-F2FA0F73F0D7}|HartingPC.vbproj|C:\\Automat\\HartingPC\\main_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{488519AF-8136-43C5-A1F1-F2FA0F73F0D7}|HartingPC.vbproj|solutionrelative:main_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{488519AF-8136-43C5-A1F1-F2FA0F73F0D7}|HartingPC.vbproj|C:\\Automat\\HartingPC\\fileoperations.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{488519AF-8136-43C5-A1F1-F2FA0F73F0D7}|HartingPC.vbproj|solutionrelative:fileoperations.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileOperations.vb",
+              "DocumentMoniker": "C:\\Automat\\HartingPC\\FileOperations.vb",
+              "RelativeDocumentMoniker": "FileOperations.vb",
+              "ToolTip": "C:\\Automat\\HartingPC\\FileOperations.vb",
+              "RelativeToolTip": "FileOperations.vb",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-30T06:06:37.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main_Form.vb",
+              "DocumentMoniker": "C:\\Automat\\HartingPC\\Main_Form.vb",
+              "RelativeDocumentMoniker": "Main_Form.vb",
+              "ToolTip": "C:\\Automat\\HartingPC\\Main_Form.vb",
+              "RelativeToolTip": "Main_Form.vb",
+              "ViewState": "AQIAABoBAAAAAAAAAAAkwCcBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-30T03:54:47.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main_Form.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Automat\\HartingPC\\Main_Form.vb",
+              "RelativeDocumentMoniker": "Main_Form.vb",
+              "ToolTip": "C:\\Automat\\HartingPC\\Main_Form.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Main_Form.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-30T03:24:41.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
